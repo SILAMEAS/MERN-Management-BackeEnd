@@ -1,1 +1,1 @@
-web : startgie
+web : npm start
